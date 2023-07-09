@@ -16,8 +16,8 @@ body {
     box-sizing: border-box;
     align-items: center;
     position: fixed;
-    height: 32px; /* Updated height */
-    width: 300px; /* Updated width */
+    height: 32px;
+    width: 300px;
     border: 1px solid #fff;
 }
 
@@ -35,8 +35,8 @@ body {
 }
 
 #progress-value {
-    height: 30px; /* Updated height */
-    width: 0%; /* Updated width */
+    height: 30px;
+    width: 0%;
 }
 
 .color {
